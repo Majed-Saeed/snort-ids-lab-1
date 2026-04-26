@@ -52,3 +52,4 @@ alert tcp any any -> any any (msg:"PORT SCAN DETECTED"; flags:S; threshold:type 
 ## Notes
 - This is a basic IDS lab for learning purposes.
 - Can be extended with more advanced rules and logging.
+update 1 - testing
